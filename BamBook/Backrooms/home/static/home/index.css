@@ -1,0 +1,183 @@
+#header{
+  width:105vw;
+  background-color:rgb(255, 255, 255);
+  padding: 0%;
+  position:fixed;
+  display:block;
+}
+
+#green_line{
+  width:105vw;
+  background-color:rgb(20, 164, 7);
+  position:relative;
+  display: inline-block;
+}
+
+#gray_line{
+  background-color:rgb(216, 213, 213);
+  width:105vw;
+  height:100%;
+  display: block;
+}
+
+#poisk-vhod{
+  width:105vw;
+  height:100%;
+  display: inline-block;
+}
+
+#books{
+  height:200vh;
+  width:100vw;
+  background-color:rgb(82, 249, 5);
+  display: block;
+}
+
+#line_book{
+  height:30vw;
+  display: block;
+}
+
+#search:before{
+  content: "🔍";
+  opacity: 60%;
+  font-size:1.3vw;
+}
+
+.genres{
+  color:green;
+  height:2.6vw;
+  text-decoration: none;
+  font-size:1.4vw;
+  padding-left:20px;
+  padding-right:20px;
+  float:left;
+}
+
+.genres:hover{
+  background-color:rgb(183, 182, 182);
+  color:green;
+}
+
+.button{
+  height:3.3vw;
+  border-radius:0.2vw;
+  background-color:white;
+  margin-left:1.3vw;
+  padding-right:5px;
+  text-decoration:none;
+  color:black;
+  font-size:1.3vw;
+}
+
+.button:hover{
+  color:green;
+  background-color:#dff5cd;
+}
+
+.but_img{
+  height:100%;
+  border-radius:0.2vw;
+  margin-right:3px;
+  margin-top:0%;
+}
+
+.poisk{
+  display:inline-block;
+  white-space: nowrap;
+  vertical-align:middle;                 
+}
+
+.book{
+  background-color:rgb(134, 250, 96);
+  width:15vw;
+  height:25vw;
+  display: inline-block;
+  margin:2.2vw;
+  text-decoration:none;
+}
+
+.book_name{
+  text-decoration:none;
+  font-size:1.7vw;
+  color:black;
+}
+
+* {box-sizing: border-box;}
+
+form {
+  position: relative;
+  width: 60%;
+  margin-left:3%;
+  height:3.5vw;
+}
+
+input, button {
+  outline: none;
+}
+
+input {
+  width: 100%;
+  height:100%;
+  background: #F9F0DA;
+  padding-left: 15px;
+  border:0.3vw solid rgb(245, 213, 5);
+  border-radius: 3px;
+  display: block;
+}
+
+button {
+  height:3.5vw;
+  width:3.5vw;
+  position: absolute;
+  top: 0;
+  right: 0;
+  background: rgb(245, 213, 5);
+  cursor: pointer;
+  border:none;
+}
+
+
+/* Форма регистрации -------------------------------------------------------------------------------------
+
+/* Всплывающая форма-скрыта по умолчанию */
+.form-popup{
+  display: none;
+  position: absolute;
+  z-index:1;
+}
+
+/* Добавление стилей в контейнер форм */
+.form-container {
+  max-width: 20vw;
+  top:30vh;
+  margin: -29vh 0 0 370%;
+}
+
+/* Поля ввода полной ширины */
+.form-container input[type=text], .form-container input[type=password] {
+  width: 20vw;
+  padding: 2vh;
+  background: #f1f1f1;
+}
+
+/* Когда входы получают фокус, сделайте что-нибудь */
+.form-container input[type=text]:focus, .form-container input[type=password]:focus {
+  background-color: #ddd;
+  outline: none;
+}
+
+/* Установите стиль для кнопки отправить/кнопка */
+.form-container .btn {
+  background-color: #4CAF50;
+  color: white;
+  cursor: pointer;
+  width: 20vw;
+  margin-top:2vh;
+  position: relative;
+}
+
+/* Добавьте некоторые эффекты наведения на кнопки */
+.form-container .btn:hover, .open-button:hover {
+  opacity: 1;
+}
