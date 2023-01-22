@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="01e8ec95-9612-4dcf-985b-f0d374f54c29" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/BamBook/Backrooms/account/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BamBook/Backrooms/account/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BamBook/Backrooms/account/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BamBook/Backrooms/account/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BamBook/Backrooms/account/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BamBook/Backrooms/account/static/home/Library.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BamBook/Backrooms/account/static/home/Login.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BamBook/Backrooms/account/static/home/Logo.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BamBook/Backrooms/account/static/home/bambook.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BamBook/Backrooms/account/static/home/book.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BamBook/Backrooms/account/static/home/book_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BamBook/Backrooms/account/static/home/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BamBook/Backrooms/account/static/home/like.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BamBook/Backrooms/account/static/home/log_out.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BamBook/Backrooms/account/templates/account/dashboard.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BamBook/Backrooms/account/templates/account/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BamBook/Backrooms/account/templates/account/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BamBook/Backrooms/account/templates/account/register_done.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BamBook/Backrooms/account/templates/account/registration/logged_out.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BamBook/Backrooms/account/templates/account/registration/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BamBook/Backrooms/account/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BamBook/Backrooms/account/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BamBook/Backrooms/account/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BamBook/Backrooms/account/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BamBook/Backrooms/Backrooms/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/BamBook/Backrooms/Backrooms/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BamBook/Backrooms/Backrooms/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/BamBook/Backrooms/Backrooms/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BamBook/Backrooms/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/BamBook/Backrooms/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BamBook/Backrooms/home/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/BamBook/Backrooms/home/views.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2KgQETEOw0VuGowbrroZCTwwI5J" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/BamBook/Backrooms/account" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lefru\Desktop\babuk\BamBookSite\BamBook\Backrooms\account" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lefru\Desktop\babuk\BamBookSite\BamBook\Backrooms\account\templates\account\registration" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="01e8ec95-9612-4dcf-985b-f0d374f54c29" name="Changes" comment="" />
+      <created>1674393634691</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674393634691</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

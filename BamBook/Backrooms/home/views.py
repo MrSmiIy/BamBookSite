@@ -6,13 +6,12 @@ from django.contrib.auth import authenticate,login,logout
 import json
 
 def home(request):
-    global CONTAINER
-    if request.user.is_anonymous:
-        return redirect('home/index.html')
+    # global CONTAINER
+    # if request.user.is_anonymous:
+    #    return redirect('home/index.html')
+    # if request.method == 'POST':
+    #    return HttpResponse("")
 
-    if request.method == 'POST':
-
-        return HttpResponse("")
     return render(request,'home/index.html') \
         
 def my_books(request):
